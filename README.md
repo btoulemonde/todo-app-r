@@ -1,3 +1,7 @@
+#tuto ruby on rails
+
+premier test ruby
+
 # README
 
 This README would normally document whatever steps are necessary to get the
